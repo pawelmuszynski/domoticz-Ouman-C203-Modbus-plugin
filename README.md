@@ -13,7 +13,7 @@ Tested with chinese RS485 to USB module.
 ```
 cd ~/domoticz/plugins
 pip install -r requirements.txt
-git clone https://github.com/pawelmuszynski/domoticz-Ouman-C203-Modbus
+git clone https://github.com/pawelmuszynski/domoticz-Ouman-C203-Modbus-plugin
 ```
 Restart your Domoticz server.
 
